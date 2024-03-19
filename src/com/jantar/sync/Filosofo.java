@@ -17,7 +17,8 @@ public class Filosofo extends Thread {
     }
 
     /**
-     * Gera um tempo aleatório entre 0 e TEMPO_MAXIMO para simular o tempo que o filósofo passa pensando ou comendo.
+     * Gera um tempo aleatório entre 0 e TEMPO_MAXIMO para simular o tempo que o filósofo passa
+     * pensando ou comendo.
      *
      * @return O tempo gerado.
      */
